@@ -427,4 +427,7 @@
          black in software (to avoid aliasing or emulate a cutout that is not physically existent).
          -->
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+
+    <!-- Whether to enable fp unlock when screen turns off on udfps devices -->
+    <bool name="config_screen_off_udfps_enabled">true</bool>
 </resources>
