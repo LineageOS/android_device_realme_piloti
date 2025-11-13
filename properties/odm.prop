@@ -5,3 +5,9 @@ ro.vendor.oplus.regionmark=CN
 ro.vendor.display.enable_frc_rm=1
 ro.vendor.display.sensortype=2
 vendor.display.force_lm_to_fb_config=1
+
+# Sensors
+ro.vendor.oplus.sensor.brl_receive=true
+ro.vendor.oplus.sensor.high_pwm_rgb=true
+ro.vendor.oplus.sensor.lb_algo=true
+ro.vendor.oplus.sensor.use_black_mode=true
