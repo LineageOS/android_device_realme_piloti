@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/display/displayconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946390417669267.xml
 
 # Fingerprint
-$(call soong_config_set,surfaceflinger,udfps_lib,//hardware/oplus:libudfps_extension.oplus)
 $(call soong_config_set_bool,qtidisplay,oplus_udfps,true)
 
 # LiveDisplay
