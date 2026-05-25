@@ -23,8 +23,8 @@ PRODUCT_MODEL := RMX5090
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi-user 16 BP2A.250605.015 1772719623375 release-keys" \
-    BuildFingerprint=realme/RMX5090/RE602CL1:16/BP2A.250605.015/V.3129120-e2b047-e5e530:user/release-keys \
+    BuildDesc="qssi-user 16 BP2A.250605.015 1775845999607 release-keys" \
+    BuildFingerprint=realme/RMX5090/RE602CL1:16/BP2A.250605.015/V.dc0578_159b0e5_157556d:user/release-keys \
     DeviceName=RE602CL1 \
     DeviceProduct=RMX5090 \
     SystemDevice=RE602CL1 \

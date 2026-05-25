@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from realme GT7 Pro Racing Edition (RMX5090_16.0.5.701(CN01)).
+## are from realme GT7 Pro Racing Edition (RMX5090_16.0.5.712(CN01)).
 
 # ACDB
 odm/etc/acdbdata/acdb_cal.acdb:vendor/etc/acdbdata/sun_mtp/acdb_cal.acdb
@@ -787,6 +787,7 @@ odm/lib64/camera/components/com.oplus.stats.aec.so
 odm/lib64/camera/components/com.oplus.stats.af.so
 odm/lib64/camera/components/com.oplus.stats.awb.so
 odm/lib64/camera/components/com.oplus.stats.pdlib.so
+odm/lib64/camera/components/com.qti.node.videodarkvision.so
 odm/lib64/camera/components/libcamxoemsatsoftwarefusionwrapper.so
 odm/lib64/camera/components/libcamxoemsatwrapper.so
 odm/lib64/camera/components/libopluscolorsensorwrapper.so
@@ -1048,6 +1049,7 @@ vendor/lib64/camera/components/libcamxevainterface.so
 vendor/lib64/camera/components/libdepthmapwrapper.so
 vendor/lib64/camera/components/libdepthmapwrapper_itof.so
 vendor/lib64/camera/components/libdepthmapwrapper_secure.so
+vendor/lib64/camera/amgFront_3.pb
 vendor/lib64/camera/bitmlconfig.bin
 vendor/lib64/camera/bitmlconfig_sm7550.bin
 vendor/lib64/camera/camxfl115indices.bin
@@ -1099,18 +1101,36 @@ vendor/lib64/camera/com.qti.sensor.s5khp1s.so
 vendor/lib64/camera/com.qti.sensor.s5kjd1sp.so
 vendor/lib64/camera/com.qti.sensor.s5kjn1.so
 vendor/lib64/camera/com.qti.sensormodule.qtech_imx766_ois.bin
+vendor/lib64/camera/com.qti.sensormodule.qtech_imx766_sm7750.bin
 vendor/lib64/camera/com.qti.sensormodule.qtech_imx858.bin
+vendor/lib64/camera/com.qti.sensormodule.qtech_imx858_sm7750.bin
 vendor/lib64/camera/com.qti.sensormodule.qtech_s5kjn1.bin
+vendor/lib64/camera/com.qti.sensormodule.qtech_s5kjn1_sm7750.bin
 vendor/lib64/camera/com.qti.sensormodule.qti_tpg0.bin
+vendor/lib64/camera/com.qti.sensormodule.qti_tpg0_sm7750.bin
 vendor/lib64/camera/com.qti.sensormodule.qti_tpg1.bin
+vendor/lib64/camera/com.qti.sensormodule.qti_tpg1_sm7750.bin
+vendor/lib64/camera/com.qti.sensormodule.qti_tpg1_sm7750_dummy.bin
 vendor/lib64/camera/com.qti.sensormodule.qti_tpg2.bin
+vendor/lib64/camera/com.qti.sensormodule.shinetech_imx688_front_sm7750.bin
 vendor/lib64/camera/com.qti.sensormodule.shinetech_imx688_rear.bin
 vendor/lib64/camera/com.qti.sensormodule.shinetech_ov32c4c.bin
 vendor/lib64/camera/com.qti.sensormodule.sony_imx888.bin
+vendor/lib64/camera/com.qti.sensormodule.sony_imx888_sm7750.bin
 vendor/lib64/camera/com.qti.sensormodule.sunny_s5k33dxx.bin
 vendor/lib64/camera/com.qti.sensormodule.sunny_s5k33dxx_front.bin
 vendor/lib64/camera/com.qti.sensorsocmap.socid_map.bin
+vendor/lib64/camera/com.qti.tuned.bonito_default.bin
+vendor/lib64/camera/com.qti.tuned.bonito_qtech_imx766.bin
+vendor/lib64/camera/com.qti.tuned.bonito_qtech_imx858.bin
+vendor/lib64/camera/com.qti.tuned.bonito_qtech_s5kjn1.bin
+vendor/lib64/camera/com.qti.tuned.bonito_shinetech_ov32c.bin
 vendor/lib64/camera/com.qti.tuned.default.sun.bin
+vendor/lib64/camera/com.qti.tuned.eliza_default.bin
+vendor/lib64/camera/com.qti.tuned.eliza_qtech_imx766.bin
+vendor/lib64/camera/com.qti.tuned.eliza_qtech_imx858.bin
+vendor/lib64/camera/com.qti.tuned.eliza_qtech_s5kjn1.bin
+vendor/lib64/camera/com.qti.tuned.eliza_shinetech_imx688.bin
 vendor/lib64/camera/com.qti.tuned.qtech_imx766.sun.bin
 vendor/lib64/camera/com.qti.tuned.qtech_imx858.sun.bin
 vendor/lib64/camera/com.qti.tuned.qtech_s5kjn1.sun.bin
@@ -1125,9 +1145,16 @@ vendor/lib64/camera/fdconfigpreviewlite.bin
 vendor/lib64/camera/fdconfigsecure.bin
 vendor/lib64/camera/fdconfigvideo.bin
 vendor/lib64/camera/fdconfigvideolite.bin
+vendor/lib64/camera/hummerFront_3.pb
 vendor/lib64/camera/imx480_3.pb
 vendor/lib64/camera/imx615_3.pb
+vendor/lib64/camera/ktmFront_2.pb
+vendor/lib64/camera/paganiFront_3.pb
+vendor/lib64/camera/paganiInFront_3.pb
+vendor/lib64/camera/petrelfrontmain_3.pb
+vendor/lib64/camera/petrelfrontsub_4.pb
 vendor/lib64/camera/qfdserviceconfig.bin
+vendor/lib64/camera/zffront_3.pb
 vendor/lib64/hw/camera.qcom.sm8750.so
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.offline.so
