@@ -1364,6 +1364,7 @@ odm/etc/PanelChaplin/P_3_AE035_dsc_cmd_mode_panel_2_100nit.odf
 odm/etc/PanelChaplin/P_3_AE035_dsc_cmd_mode_panel_2_2nit.odf
 odm/etc/PanelChaplin/P_3_AE035_dsc_cmd_mode_panel_2_max.odf
 odm/etc/PanelChaplin/P_3_AE035_dsc_cmd_mode_panel_HS
+odm/etc/PanelChaplin/panelchaplin
 odm/etc/p_3_ae035_backlight_data.xml
 odm/etc/p_3_ae035_cinema_eyeprotect_data.xml
 odm/etc/p_3_ae035_cm2_standard_eyeprotect_data.xml
