@@ -1374,6 +1374,21 @@ odm/etc/p_3_ae035_eyeprotect_data.xml
 odm/etc/sdm_display_resolution_extn.xml:vendor/etc/display/sdm_display_resolution_extn.xml;TRYSRCFIRST
 vendor/etc/ltm_config_P_3_AE035_dsc_cmd_mode_panel.xml
 
+# Face unlock
+odm/lib64/libstfaceunlockocl_uff.so;FIX_SONAME
+
+# Face unlock firmware
+odm/firmware/uff_face.b00
+odm/firmware/uff_face.b01
+odm/firmware/uff_face.b02
+odm/firmware/uff_face.b03
+odm/firmware/uff_face.b04
+odm/firmware/uff_face.b05
+odm/firmware/uff_face.b06
+odm/firmware/uff_face.b07
+odm/firmware/uff_face.b08
+odm/firmware/uff_face.mdt
+
 # Fingerprint firmware
 odm/firmware/uff_jv.b00
 odm/firmware/uff_jv.b01
