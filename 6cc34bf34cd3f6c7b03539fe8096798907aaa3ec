@@ -16,6 +16,24 @@
       "message": "Why don\u0027t you merge into 23.2 if it was fully verified there?",
       "revId": "6cc34bf34cd3f6c7b03539fe8096798907aaa3ec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b398ceb0_1eac2960",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2026-09-16T12:09:29Z",
+      "side": 1,
+      "message": "just nuked 23.2 tree locally ;(. i don\u0027t plan to ship it on 23.2 anyway.",
+      "parentUuid": "373d0222_d403b3bc",
+      "revId": "6cc34bf34cd3f6c7b03539fe8096798907aaa3ec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
