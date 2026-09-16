@@ -34,6 +34,24 @@
       "parentUuid": "373d0222_d403b3bc",
       "revId": "6cc34bf34cd3f6c7b03539fe8096798907aaa3ec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "35f7788e_cf463a6d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-16T12:13:50Z",
+      "side": 1,
+      "message": "I understand that you don\u0027t plan to ship now, but it would make sense to keep bringup history intact.",
+      "parentUuid": "b398ceb0_1eac2960",
+      "revId": "6cc34bf34cd3f6c7b03539fe8096798907aaa3ec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
