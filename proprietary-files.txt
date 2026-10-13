@@ -1375,6 +1375,10 @@ odm/etc/p_3_ae035_eyeprotect_data.xml
 odm/etc/sdm_display_resolution_extn.xml:vendor/etc/display/sdm_display_resolution_extn.xml;TRYSRCFIRST
 vendor/etc/ltm_config_P_3_AE035_dsc_cmd_mode_panel.xml
 
+# Display features
+odm/etc/vintf/manifest/vintf_manifext_aidl_panelchaplin.xml
+odm/lib64/libPanelChaplin.so
+
 # Dolby Vision
 odm/bin/hw/dvs-aidl-service
 odm/etc/dolby/display/dolby_vision.cfg
