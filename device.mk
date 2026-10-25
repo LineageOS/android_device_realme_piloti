@@ -48,6 +48,9 @@ PRODUCT_PACKAGES += \
     OPlusSystemUIResTarget
 
 # NFC
+PRODUCT_PACKAGES += \
+    android.hardware.nfc-service.nxp
+
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/nfc/libnfc-mtp-SN220.conf_24620:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     $(LOCAL_PATH)/configs/nfc/libnfc-nci.conf_24620:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf
